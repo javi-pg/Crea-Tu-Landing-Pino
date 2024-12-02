@@ -8,7 +8,6 @@ function App() {
    <>
    <NavBar />
     <ItemListContainer message= "Bienvenidos a nuestra tienda" />
-    
    </>
   );
 }
